@@ -1,0 +1,33 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 3rem;
+  top: 0;
+  position: fixed;
+  background-color: blue;
+}
+.content{
+  width: 50%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20rem;
+  background-color: yellow;
+}
+.footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 3rem;
+  bottom: 0;
+  position: fixed;
+  background-color: green;
+}
