@@ -5,3 +5,5 @@ https://webplatform.github.io/docs/tutorials/css_animations/
 https://www.joshwcomeau.com/animation/css-transitions/
 
 https://javascript.info/css-animations
+
+https://www.the-art-of-web.com/css/css-animation/
